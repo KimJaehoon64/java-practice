@@ -1,4 +1,4 @@
-package com.jaehoon.level01.basic;
+package com.jaehoon.chap03.level01.basic;
 
 public class Application {
     public static void main(String[] args) {
