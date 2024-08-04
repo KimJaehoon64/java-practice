@@ -7,7 +7,6 @@ public class changeMoney{
         int[] arr = {500, 100, 50, 10, 5, 1};  // 잔돈 종류
         int[] count = new int[arr.length]; // 잔돈의 갯수 배열
 
-
         Scanner in = new Scanner(System.in);
        // System.out.println("상품가격을 입력하세요: ");
         int price = in.nextInt();
