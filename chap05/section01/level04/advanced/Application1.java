@@ -1,7 +1,6 @@
 package com.jaehoon.chap05.section01.level04.advanced;
 
 import java.util.Arrays;
-
 public class Application1 {
     public static void main(String[] args) {
         int[] arr = new int[6];
