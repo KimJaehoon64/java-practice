@@ -1,6 +1,4 @@
-package com.jaehoon.chap00.programmers.level1;
-
-import java.util.LinkedList;
+package com.jaehoon.chap00.programmers.level2;
 
 public class Parentheses {
     boolean solution(String s) {
