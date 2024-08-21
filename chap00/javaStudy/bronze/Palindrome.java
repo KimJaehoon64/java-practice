@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Palindrome {
 
-    public static int count; // 재귀 호출 횟수를 기록할 전역 변수
+    public static int count;  // recursion 메소드를 몇번 호출하는지 count하는 변수
 
     // 문자열 s의 부분 문자열 s[l...r]이 팰린드롬인지 검사하는 재귀 함수
     public static int recursion(String s, int l, int r){
