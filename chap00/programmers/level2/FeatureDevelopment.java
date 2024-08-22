@@ -25,7 +25,6 @@ class FeatureDevelopment {
             stack.push(day);  // 완료된 날짜를 스택에 저장
         }
         ArrayList<Integer> result = new ArrayList<>();
-
         while(!stack.isEmpty()) {
             int deploy = stack.pop(); //가장 최근에 완료된 기능의 완료 날짜
             int feature = 1; // 현재 배포 날짜에 배포가능한 기능 수
